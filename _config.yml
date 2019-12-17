@@ -1,9 +1,9 @@
 # main text of home
 name: Sandeep Raju Prabhakar
-bio: Software Engineer at Amazon <br/>Software generalist ∙ Open source aficionado <br/> Lately into functional programming and distributed systems.
+bio: Crazy dog person ∙ Biryani lover <br/> Fan of Frasier ∙ Wannabe photographer <br/>Software generalist ∙ Open source aficionado <br/> Lately into functional programming and distributed systems.
 
 # twitter summary info
-description: Sandeep Raju Prabhakar's thoughts on technology, software engineering and other things that interests him.
+description: Sandeep's thoughts on technology, software engineering and other things that interests him.
 
 # if it's an external image, update below for true
 # better with square images
@@ -56,7 +56,7 @@ email: me@sandeepraju.in
 authors:
     sandeeprajup:
         name: Sandeep Raju Prabhakar
-        bio: Software Engineer.
+        bio: Writes about technology, software engineering and other things that interests him.
         external-image: false
         picture: assets/images/profile.jpg
         twitter: sandeeprajup
@@ -78,7 +78,7 @@ pagination:
 projects: false
 
 # if you don't need "about" or "blog", comment them out below
-about: true
+about: false
 blog: true
 
 # do you want to show the "read time" of the posts?
