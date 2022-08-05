@@ -1,6 +1,6 @@
 # main text of home
 title: Sandeep Raju Prabhakar
-bio: Crazy dog person ∙ Biryani lover <br/> Fan of Frasier ∙ Hobbyist <a href="https://www.instagram.com/sandeepraju_clicks/" target="_blank">photographer</a> <br/>Software generalist ∙ Open source aficionado <br/> Lately into functional programming and distributed systems.
+bio: Crazy dog person ∙ Biryani lover <br/> Fan of <a href="https://en.wikipedia.org/wiki/Frasier" target="_blank">Frasier</a> ∙ Hobbyist <a href="https://www.instagram.com/sandeepraju_clicks/" target="_blank">photographer</a> <br/>Software generalist ∙ Open source aficionado <br/> Lately into functional programming and distributed systems.
 
 # twitter summary info
 description: Sandeep's thoughts on technology, software engineering and other things that interests him.
@@ -12,7 +12,7 @@ picture: assets/images/profile.jpg
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
-dark-theme: auto
+dark-theme: false
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
