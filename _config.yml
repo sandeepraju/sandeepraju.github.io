@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+title: John Doe
+bio: A Person who travels the world eating noodles
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -9,6 +9,10 @@ description: A blog about technology and stuff related
 # better with square images
 external-image: false
 picture: assets/images/profile.jpg
+
+# your site color theme, true for dark theme, 
+# false to light theme, auto to switch with system.
+dark-theme: auto
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -24,32 +28,17 @@ permalink: /:title/
 # To enable google analytics, supply your token below
 # analytics-google: 'UA-MYANALYTICS'
 
-# To enable piwik tracking, supply your url & site ID below
-# analytics-piwik-url: 'piwik.my-host.com'
-# analytics-piwik-id: 1
-
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: mydisqus # enter this from your disqus account
+  shortname: github # enter this from your disqus account
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 facebook: myfacebook
 twitter: mytwitter
-# instagram: myinstagram
-# pinterest: mypinterest
-# linkedin: mylinkedin
-# youtube: myyoutube
-# spotify: myspotify
+instagram: myinstagram
+linkedin: mylinkedin
 github: mygithub
-# gitlab: mygitlab
-# lastfm: mylastfm
-# stackoverflow: 7044681/mystackoverflow
-# quora: userquora
-# reddit: username
-medium: medium
-# vimeo: myvimeo
-# lanyrd: mylanyrd
 email: myemail@gmail.com
 
 authors:
@@ -119,11 +108,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-  - jekyll-admin
   - jekyll-paginate-v2
-
-jekyll-mentions:
-  base_url: https://github.com
 
 compress_html:
   ignore:
@@ -133,11 +118,9 @@ compress_html:
 
 exclude:
   [
-    "travis.sh",
     "README.md",
     "Gemfile",
     "Gemfile.lock",
     "FAQ.md",
-    "node_modules",
     "vendor",
   ]
