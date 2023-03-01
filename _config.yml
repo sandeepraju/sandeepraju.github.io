@@ -16,9 +16,12 @@ dark-theme: false
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
+resume: false
 resume-external: true
 resume-url: /assets/docs/sandeep-raju-prabhakar-resume.pdf
+
+# If you want to include books page, set to true
+books: true
 
 url: https://sandeepraju.github.io
 # your url: http://USERNAME.github.io
