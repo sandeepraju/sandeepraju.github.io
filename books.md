@@ -6,7 +6,7 @@ layout: page
 
 <p>👋 Hey, there!<p>
 
-<p>This is my place to track all the books I have finished, starting 2023. Having a public tracker helps in be accountable and motivated to read more. I intend to keep this tracker updated on a weekly basis to document my reading journey.</p>
+<p>This is my place to track all the books I have completed, starting 2023. Having a public tracker helps in being accountable and motivated to read more. I intend to keep this tracker updated on a weekly basis to document my reading journey.</p>
 
 <p>Drop me an <a href="mailto:me@sandeepraju.in">email</a> if you like my reading list or you have an interesting book suggestion!</p>
 
