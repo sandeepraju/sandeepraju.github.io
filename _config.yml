@@ -26,7 +26,7 @@ books: true
 url: https://sandeepraju.github.io
 # your url: http://USERNAME.github.io
 
-permalink: /:title/
+permalink: /blog/:title/
 
 # To enable google analytics, supply your token below
 analytics-google: 'UA-34261218-1'
