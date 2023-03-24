@@ -18,4 +18,5 @@ layout: page
     <li><a href="https://www.goodreads.com/book/show/9420697-the-compound-effect?ref=nav_sb_ss_1_16">"The Compound Effect" by Darren Hardy</a></li>
     <li><a href="https://www.goodreads.com/book/show/23493360-the-entrepreneur-roller-coaster?ref=nav_sb_ss_1_32">"The Entrepreneur Roller Coaster" by Darren Hardy</a></li>
     <li><a href="https://www.goodreads.com/book/show/52346729-big-billion-startup?ref=nav_sb_ss_4_15">"Big Billion Startup" by Mihir Dalal</a></li>
+    <li><a href="https://www.goodreads.com/book/show/30197119-liminal-thinking">"Liminal Thinking" by Dave Gray</a></li>
 </ul>
