@@ -21,4 +21,5 @@ layout: page
     <li><a href="https://www.goodreads.com/book/show/30197119-liminal-thinking">"Liminal Thinking" by Dave Gray</a></li>
     <li><a href="https://www.goodreads.com/book/show/18213522-the-race-of-my-life">"The Race of My Life" by Milkha Singh and Sonia Sanwalka</a></li>
     <li><a href="https://www.goodreads.com/book/show/34680719-sita">"Sita: Warrior of Mithila" by Amish Tripathi</a></li>
+    <li><a href="https://www.goodreads.com/book/show/55939556-the-bhagavad-gita-for-millennials">"The Bhagavad Gita For Millennials" by Bibek Debroy</a></li>
 </ul>
