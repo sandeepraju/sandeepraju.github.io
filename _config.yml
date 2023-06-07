@@ -23,6 +23,9 @@ resume-url: /assets/docs/sandeep-raju-prabhakar-resume.pdf
 # If you want to include books page, set to true
 books: true
 
+# If you want to include cafes page, set to true
+cafes: true
+
 url: https://sandeepraju.github.io
 # your url: http://USERNAME.github.io
 
