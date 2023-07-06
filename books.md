@@ -16,7 +16,8 @@ layout: page
 <h2>2023</h2>
 
 <ul>
-	<li><a href="https://www.goodreads.com/book/show/24709327-scion-of-ikshvaku">"Scion of Ikshvaku" by Amish Tripathi</a></li>
+    <li><a href="https://www.goodreads.com/book/show/54898389-the-almanack-of-naval-ravikant">"The Almanack of Naval Ravikant" by Eric Jorgenson</a></li>
+    <li><a href="https://www.goodreads.com/book/show/24709327-scion-of-ikshvaku">"Scion of Ikshvaku" by Amish Tripathi</a></li>
     <li><a href="https://www.goodreads.com/book/show/35167685-surely-you-re-joking-mr-feynman?ref=nav_sb_ss_1_34">"Surely You're Joking, Mr. Feynman!" by Richard P. Feynman</a></li>
     <li><a href="https://www.goodreads.com/book/show/9420697-the-compound-effect?ref=nav_sb_ss_1_16">"The Compound Effect" by Darren Hardy</a></li>
     <li><a href="https://www.goodreads.com/book/show/23493360-the-entrepreneur-roller-coaster?ref=nav_sb_ss_1_32">"The Entrepreneur Roller Coaster" by Darren Hardy</a></li>
