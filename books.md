@@ -26,4 +26,5 @@ layout: page
     <li><a href="https://www.goodreads.com/book/show/34680719-sita">"Sita: Warrior of Mithila" by Amish Tripathi</a></li>
     <li><a href="https://www.goodreads.com/book/show/55939556-the-bhagavad-gita-for-millennials">"The Bhagavad Gita For Millennials" by Bibek Debroy</a></li>
     <li><a href="https://www.goodreads.com/book/show/23692271-sapiens">"Sapiens: A Brief History of Humankind" by Yuval Noah Harari</a></li>
+    <li><a href="https://www.goodreads.com/book/show/170448.Animal_Farm">"Animal Farm" by George Orwell</a></li>
 </ul>
