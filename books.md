@@ -28,4 +28,6 @@ layout: page
     <li><a href="https://www.goodreads.com/book/show/55939556-the-bhagavad-gita-for-millennials">"The Bhagavad Gita For Millennials" by Bibek Debroy</a></li>
     <li><a href="https://www.goodreads.com/book/show/23692271-sapiens">"Sapiens: A Brief History of Humankind" by Yuval Noah Harari</a></li>
     <li><a href="https://www.goodreads.com/book/show/170448.Animal_Farm">"Animal Farm" by George Orwell</a></li>
+    <li><a href="https://www.goodreads.com/en/book/show/17834729">"Entrepreneur 5 pm to 9 am" by Kanth Miriyala and Reethika Sunder</a></li>
+    <li><a href="https://www.goodreads.com/book/show/20764935-it-happened-in-india">"It Happened in India" by Kishore Biyani and Dipayan Baishya</a></li>
 </ul>
