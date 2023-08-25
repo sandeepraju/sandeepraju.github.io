@@ -30,4 +30,5 @@ layout: page
     <li><a href="https://www.goodreads.com/book/show/170448.Animal_Farm">"Animal Farm" by George Orwell</a></li>
     <li><a href="https://www.goodreads.com/en/book/show/17834729">"Entrepreneur 5 pm to 9 am" by Kanth Miriyala and Reethika Sunder</a></li>
     <li><a href="https://www.goodreads.com/book/show/20764935-it-happened-in-india">"It Happened in India" by Kishore Biyani and Dipayan Baishya</a></li>
+    <li><a href="https://www.goodreads.com/en/book/show/17660462">"The Everything Store" by Brad Stone</a></li>
 </ul>
