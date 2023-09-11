@@ -31,4 +31,6 @@ layout: page
     <li><a href="https://www.goodreads.com/en/book/show/17834729">"Entrepreneur 5 pm to 9 am" by Kanth Miriyala and Reethika Sunder</a></li>
     <li><a href="https://www.goodreads.com/book/show/20764935-it-happened-in-india">"It Happened in India" by Kishore Biyani and Dipayan Baishya</a></li>
     <li><a href="https://www.goodreads.com/en/book/show/17660462">"The Everything Store" by Brad Stone</a></li>
+    <li><a href="https://www.goodreads.com/book/show/31138556-homo-deus">"Homo Deus: A History of Tomorrow" by Yuval Noah Harari</a></li>
+    <li><a href="https://www.goodreads.com/book/show/50322905-dashavatar">"Dashavatar: Stories of Lord Vishnu" by Piyusha Vir</a></li>
 </ul>
