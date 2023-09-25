@@ -33,4 +33,5 @@ layout: page
     <li><a href="https://www.goodreads.com/en/book/show/17660462">"The Everything Store" by Brad Stone</a></li>
     <li><a href="https://www.goodreads.com/book/show/31138556-homo-deus">"Homo Deus: A History of Tomorrow" by Yuval Noah Harari</a></li>
     <li><a href="https://www.goodreads.com/book/show/50322905-dashavatar">"Dashavatar: Stories of Lord Vishnu" by Piyusha Vir</a></li>
+    <li><a href="https://www.goodreads.com/book/show/22047640-zero-to-one">"Zero to One" by Peter Thiel and Blake Masters</a></li>
 </ul>
