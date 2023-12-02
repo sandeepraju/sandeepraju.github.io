@@ -34,4 +34,7 @@ layout: page
     <li><a href="https://www.goodreads.com/book/show/31138556-homo-deus">"Homo Deus: A History of Tomorrow" by Yuval Noah Harari</a></li>
     <li><a href="https://www.goodreads.com/book/show/50322905-dashavatar">"Dashavatar: Stories of Lord Vishnu" by Piyusha Vir</a></li>
     <li><a href="https://www.goodreads.com/book/show/22047640-zero-to-one">"Zero to One" by Peter Thiel and Blake Masters</a></li>
+    <li><a href="https://www.goodreads.com/book/show/4477.Complications">"Complications" by Atul Gawande</a></li>
+    <li><a href="https://www.goodreads.com/book/show/31423133-make-your-bed">"Make Your Bed" by William H. McRaven</a></li>
+    <li><a href="https://www.goodreads.com/book/show/41721428-can-t-hurt-me">"Can't Hurt Me" by David Goggins</a></li>
 </ul>
