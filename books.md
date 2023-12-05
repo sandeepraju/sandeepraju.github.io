@@ -37,4 +37,5 @@ layout: page
     <li><a href="https://www.goodreads.com/book/show/4477.Complications">"Complications" by Atul Gawande</a></li>
     <li><a href="https://www.goodreads.com/book/show/31423133-make-your-bed">"Make Your Bed" by William H. McRaven</a></li>
     <li><a href="https://www.goodreads.com/book/show/41721428-can-t-hurt-me">"Can't Hurt Me" by David Goggins</a></li>
+    <li><a href="https://www.goodreads.com/book/show/60965575-someday-is-today">"Someday Is Today" by Matthew Dicks</a></li>
 </ul>
