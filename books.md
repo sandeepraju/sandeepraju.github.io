@@ -13,6 +13,13 @@ layout: page
 
 <p>Drop me an <a href="mailto:me@sandeepraju.in">email</a> if you like my reading list or you have an interesting book suggestion!</p>
 
+<h2>2024</h2>
+
+<ul>
+    <li><a href="https://www.goodreads.com/book/show/12605157-the-100-startup">"The $100 Startup" by Chris Guillebeau</a></li>
+</ul>
+
+
 <h2>2023</h2>
 
 <ul>
