@@ -43,7 +43,7 @@ My favorite quote from this book:
 
 <h2><a href="https://www.goodreads.com/book/show/22047640-zero-to-one" target="_blank">"Zero to One" by Peter Thiel and Blake Masters</a></h2>
 
-"Zero to One" is a manifesto for entrepreneurs, urging them to innovate and create rather than imitate. The book delves into the philosophy of building a successful startup by emphasizing the value of uniqueness and monopolistic advantages. Thiel challenges conventional business wisdom, encouraging readers to think differently. One of the first contrarian questions in this book _"What truth do very few people agree with you on?"_ has been my go to conversation starter igniting pround conversations with friends, family, and colleagues. This book is a blueprint for anyone aiming to go beyond the ordinary rather than following existing norms.
+"Zero to One" is a manifesto for entrepreneurs, urging them to innovate and create rather than imitate. The book delves into the philosophy of building a successful startup by emphasizing the value of uniqueness and monopolistic advantages. Thiel challenges conventional business wisdom, encouraging readers to think differently. One of the first contrarian questions in this book _"What truth do very few people agree with you on?"_ has been my go to conversation starter igniting profound conversations with friends, family, and colleagues. This book is a blueprint for anyone aiming to go beyond the ordinary rather than following existing norms.
 
 My favorite quote from this book:
 
