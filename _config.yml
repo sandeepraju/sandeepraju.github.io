@@ -1,6 +1,6 @@
 # main text of home
 title: Sandeep Raju Prabhakar
-bio: Crazy dog person ∙ Biryani lover <br/> Fan of <a href="https://en.wikipedia.org/wiki/Frasier" target="_blank">Frasier</a> ∙ Hobbyist <a href="https://www.instagram.com/sandeepraju_clicks/" target="_blank">photographer</a> <br/>Software generalist ∙ Open source aficionado <br/> Lately into functional programming and distributed systems.
+bio: Biryani lover ∙ Fan of <a href="https://en.wikipedia.org/wiki/Frasier" target="_blank">Frasier</a> <br/> Productivity junkie ∙ Hobbyist <a href="https://www.instagram.com/sandeepraju_clicks/" target="_blank">photographer</a> <br/>Software generalist ∙ Open source aficionado <br/>Lately into <a href="/books" target="_blank">reading</a>, <a href="/blog" target="_blank">writing</a>, and helping early engineers <a href="/mentoring" target="_blank">succeed in their careers</a>.
 
 # twitter summary info
 description: Sandeep's thoughts on technology, software engineering and other things that interests him.
@@ -25,6 +25,9 @@ books: true
 
 # If you want to include cafes page, set to true
 cafes: true
+
+# If you want to include mentoring page, set to true
+mentoring: true
 
 url: https://sandeepraju.github.io
 # your url: http://USERNAME.github.io
