@@ -35,7 +35,7 @@ url: https://sandeepraju.github.io
 permalink: /blog/:title/
 
 # To enable google analytics, supply your token below
-analytics-google: 'UA-34261218-1'
+analytics-google: 'G-8MKY18HD41'
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
