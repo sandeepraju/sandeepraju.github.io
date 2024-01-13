@@ -1,6 +1,9 @@
 ---
 title: Books
 layout: page
+image: /assets/pages/books/header.jpg
+headerImage: false
+description: "My tracker for book reading progress!"
 ---
 <h1>Books</h1>
 

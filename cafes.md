@@ -1,6 +1,9 @@
 ---
 title: Cafés
 layout: page
+image: /assets/pages/cafes/header.jpg
+headerImage: false
+description: "My compilation of favorite places to be productive while enjoying a caffeine high!"
 ---
 <h1>Cafés</h1>
 

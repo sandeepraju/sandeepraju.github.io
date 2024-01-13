@@ -3,6 +3,7 @@ title: Mentoring
 layout: page
 image: /assets/pages/mentoring/header.jpg
 headerImage: false
+description: "Level up your software engineering journey with a mentor!"
 ---
 <h1>Mentoring</h1>
 
