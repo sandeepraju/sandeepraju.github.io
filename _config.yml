@@ -29,7 +29,7 @@ cafes: true
 # If you want to include mentoring page, set to true
 mentoring: true
 
-url: https://sandeepraju.github.io
+url: https://sandeepraju.in
 # your url: http://USERNAME.github.io
 
 permalink: /blog/:title/
@@ -40,7 +40,7 @@ analytics-google: 'G-8MKY18HD41'
 # if you don't want comments in your posts, leave categories empty
 disqus:
   shortname: sandeepraju # enter this from your disqus account
-  categories: [dev] # only show disqus for posts that have these categories
+  categories: [dev, habit] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
@@ -124,6 +124,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-paginate-v2
+  - jekyll-sitemap
 
 compress_html:
   ignore:
