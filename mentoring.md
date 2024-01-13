@@ -1,6 +1,8 @@
 ---
 title: Mentoring
 layout: page
+image: /assets/pages/mentoring/header.jpg
+headerImage: false
 ---
 <h1>Mentoring</h1>
 
