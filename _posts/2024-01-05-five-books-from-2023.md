@@ -12,7 +12,7 @@ tag:
 star: false
 category: blog
 author: sandeeprajup
-description: Books that I enjoyed reading in 2023!
+description: "Books that I enjoyed reading in 2023!"
 ---
 
 In 2023, I unintentionally rediscovered a lost habit — the joy of reading. A habit that, in all honesty, was not part of any plan but unfolded organically throughout the year.
