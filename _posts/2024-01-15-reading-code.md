@@ -2,7 +2,7 @@
 title: "Reading code."
 layout: post
 date: 2024-01-15 00:00
-image: /assets/images/2024-01-15-reading-code/header.jpg
+image: /assets/posts/2024-01-15-reading-code/header.jpg
 headerImage: false
 tag:
 - skill
