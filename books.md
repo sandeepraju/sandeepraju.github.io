@@ -20,6 +20,8 @@ description: "My tracker for book reading progress!"
 
 <ul>
     <li><a href="https://www.goodreads.com/book/show/12605157-the-100-startup">"The $100 Startup" by Chris Guillebeau</a></li>
+    <li><a href="https://www.goodreads.com/en/book/show/27220736">"Shoe Dog" by Phil Knight</a></li>
+    <li><a href="https://www.goodreads.com/book/show/2685553-devi-mahatmyam">"Devi-Mahatmyam" by Sage Markandeya</a></li>
 </ul>
 
 
