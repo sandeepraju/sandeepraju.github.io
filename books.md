@@ -22,6 +22,8 @@ description: "My tracker for book reading progress!"
     <li><a href="https://www.goodreads.com/book/show/12605157-the-100-startup">"The $100 Startup" by Chris Guillebeau</a></li>
     <li><a href="https://www.goodreads.com/en/book/show/27220736">"Shoe Dog" by Phil Knight</a></li>
     <li><a href="https://www.goodreads.com/book/show/2685553-devi-mahatmyam">"Devi-Mahatmyam" by Sage Markandeya</a></li>
+    <li><a href="https://www.goodreads.com/en/book/show/34427200">"The Four" by Scott Galloway</a></li>
+    <li><a href="https://www.goodreads.com/en/book/show/54785515">"Four Thousand Weeks" by Oliver Burkeman</a></li>
 </ul>
 
 
