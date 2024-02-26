@@ -24,6 +24,7 @@ description: "My tracker for book reading progress!"
     <li><a href="https://www.goodreads.com/book/show/2685553-devi-mahatmyam">"Devi-Mahatmyam" by Sage Markandeya</a></li>
     <li><a href="https://www.goodreads.com/en/book/show/34427200">"The Four" by Scott Galloway</a></li>
     <li><a href="https://www.goodreads.com/en/book/show/54785515">"Four Thousand Weeks" by Oliver Burkeman</a></li>
+    <li><a href="https://www.goodreads.com/en/book/show/2006883">"Roads to Mussoorie" by Ruskin Bond</a></li>
 </ul>
 
 
