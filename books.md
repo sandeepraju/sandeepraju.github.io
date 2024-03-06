@@ -25,6 +25,7 @@ description: "My tracker for book reading progress!"
     <li><a href="https://www.goodreads.com/en/book/show/34427200">"The Four" by Scott Galloway</a></li>
     <li><a href="https://www.goodreads.com/en/book/show/54785515">"Four Thousand Weeks" by Oliver Burkeman</a></li>
     <li><a href="https://www.goodreads.com/en/book/show/2006883">"Roads to Mussoorie" by Ruskin Bond</a></li>
+    <li><a href="https://www.goodreads.com/en/book/show/63018232">"Random Acts of Medicine" by Anupam B. Jena and Christopher Worsham</a></li>
 </ul>
 
 
