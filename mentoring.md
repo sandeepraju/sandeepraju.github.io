@@ -17,4 +17,6 @@ description: "Level up your software engineering journey with a mentor!"
 
 <p>If you're navigating the early stages of your software engineering career and think a little guidance could be your debugging buddy, I'm here for you. </p>
 
-<p><a href="mailto:me@sandeepraju.in">Reach out</a>, let's code your success story together! 🚀💻</p>
+<p>Send me an <a href="mailto:me@sandeepraju.in">email</a>, or find me on <a href="https://www.jointaro.com/p/sandeep-raju-prabhakar/">Taro</a>.</p>
+
+<p>Let's code your success story together! 🚀💻</p>
