@@ -24,7 +24,8 @@ description: "My compilation of favorite places to be productive while enjoying 
     <li><a href="https://goo.gl/maps/zEjGvDiWv1y99mVSA">"Coupa Cafe (Ramona)" at Palo Alto</a></li>
     <li><a href="https://goo.gl/maps/21TwdibWH4QhoZK68">"Blue Bottle Coffee (HanaHaus)" at Palo Alto</a></li>
     <li><a href="https://goo.gl/maps/eK2aKaQPkpSnmKG67">"Red Rock Coffee" at Mountain View</a></li>
-    <li><a href="https://maps.app.goo.gl/pfxUQGQsHP5MdC5p8">"Starbucks (Capitol & Berryessa)" at San Jose</a></li>
+    <li><a href="https://maps.app.goo.gl/pfxUQGQsHP5MdC5p8">"Starbucks (Capitol and Berryessa)" at San Jose</a></li>
     <li><a href="https://maps.app.goo.gl/BRzqQYbiDiiGsgJSA">"Starbucks (River Oaks Pl and N. 1st St)" at San Jose</a></li>
     <li><a href="https://maps.app.goo.gl/X5BVMhvaCTRm5YcQ6">"Starbucks (University Ave.)" at Palo Alto</a></li>
+    <li><a href="https://maps.app.goo.gl/dmcK4wuSQEQgF7FD9">"Caffe Bene" at San Jose</a></li>
 </ul>
