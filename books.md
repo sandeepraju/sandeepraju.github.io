@@ -28,6 +28,7 @@ description: "My tracker for book reading progress!"
     <li><a href="https://www.goodreads.com/en/book/show/63018232">"Random Acts of Medicine" by Anupam B. Jena and Christopher Worsham</a></li>
     <li><a href="https://www.goodreads.com/book/show/35286872-raavan">"Raavan" by Amish Tripathi</a></li>
     <li><a href="https://www.goodreads.com/book/show/50208919-the-shiva-sutras">"The Shiva Sutras" by Ranjit Chaudhri</a></li>
+    <li><a href="https://www.goodreads.com/book/show/61846327-war-of-lanka">"War of Lanka" by Amish Tripathi</a></li>
 </ul>
 
 
