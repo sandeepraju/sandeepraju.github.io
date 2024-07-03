@@ -29,6 +29,7 @@ description: "My tracker for book reading progress!"
     <li><a href="https://www.goodreads.com/book/show/35286872-raavan">"Raavan" by Amish Tripathi</a></li>
     <li><a href="https://www.goodreads.com/book/show/50208919-the-shiva-sutras">"The Shiva Sutras" by Ranjit Chaudhri</a></li>
     <li><a href="https://www.goodreads.com/book/show/61846327-war-of-lanka">"War of Lanka" by Amish Tripathi</a></li>
+    <li><a href="https://www.goodreads.com/book/show/38820046-21-lessons-for-the-21st-century">"21 Lessons for the 21st Century" by Yuval Noah Harari</a></li>
 </ul>
 
 
