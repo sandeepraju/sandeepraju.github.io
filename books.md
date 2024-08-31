@@ -30,6 +30,8 @@ description: "My tracker for book reading progress!"
     <li><a href="https://www.goodreads.com/book/show/50208919-the-shiva-sutras">"The Shiva Sutras" by Ranjit Chaudhri</a></li>
     <li><a href="https://www.goodreads.com/book/show/61846327-war-of-lanka">"War of Lanka" by Amish Tripathi</a></li>
     <li><a href="https://www.goodreads.com/book/show/38820046-21-lessons-for-the-21st-century">"21 Lessons for the 21st Century" by Yuval Noah Harari</a></li>
+    <li><a href="https://www.goodreads.com/book/show/1898.Into_Thin_Air">"Into Thin Air" by Jon Krakauer</a></li>
+    <li><a href="https://www.goodreads.com/book/show/34684622-leonardo-da-vinci">"Leonardo da Vinci" by Walter Isaacson</a></li>
 </ul>
 
 
