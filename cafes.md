@@ -28,4 +28,5 @@ description: "My compilation of favorite places to be productive while enjoying 
     <li><a href="https://maps.app.goo.gl/BRzqQYbiDiiGsgJSA">"Starbucks (River Oaks Pl and N. 1st St)" at San Jose</a></li>
     <li><a href="https://maps.app.goo.gl/X5BVMhvaCTRm5YcQ6">"Starbucks (University Ave.)" at Palo Alto</a></li>
     <li><a href="https://maps.app.goo.gl/dmcK4wuSQEQgF7FD9">"Caffe Bene" at San Jose</a></li>
+    <li><a href="https://maps.app.goo.gl/f1Wis8Luer2FMKtg6">"Peet's Coffee (Lincoln Ave)" at San Jose</a></li>
 </ul>
