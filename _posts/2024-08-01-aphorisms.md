@@ -20,7 +20,7 @@ I often find myself revisiting these collected bits of wisdom when I need perspe
 
 So, I've decided to curate them here, publicly. Think of this as a living document that I'll update whenever I stumble upon something new that speaks to me. A perpetual work-in-progress, much like life itself.
 
-You might find some of these vague, and lacking context - that's intentional. I prefer to leave them as they are — short, mysterious, and open to interpretation. There's a certain magic in their brevity. I like that depending on where you are in life or what you’re going through, the same phrase can take on entirely different meanings..
+You might find some of these vague, and lacking context - that's intentional. I prefer to leave them as they are — short, mysterious, and open to interpretation. There's a certain magic in their brevity. I like that, depending on where you are in life or what you’re going through, the same phrase can take on entirely different meanings.
 
 So, here they are, in no specific order — take from them what you will. They’ve helped guide me, and I hope, in some small way, they can do the same for you.
 
