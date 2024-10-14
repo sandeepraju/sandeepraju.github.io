@@ -26,25 +26,30 @@ So, here they are, in no specific order — take from them what you will. They�
 
 <br/>
 
-- <em>"Being busy creates opportunities"</em>
-- <em>"Great things never came from comfort zones"</em>
+
 - <em>"Fail often, but fail forward"</em>
-- <em>"Never trust a man who earns a salary"​</em>
-- <em>"The squeaky wheel gets the grease"</em>
 - <em>"What you don't know can't hurt you"</em>
 - <em>"Control the controllables"</em>
 - <em>"The dose makes the poison"</em>
 - <em>"Don't count other people's money"</em>
-- <em>"Success is on the other side if your ego"</em>   
+- <em>"Being busy creates opportunities"</em>
+- <em>"Success is on the other side of your ego"</em>
 - <em>"There are no right answers to wrong questions"</em>
 - <em>"A rising tide lifts all boats"</em>
 - <em>"The things you run from are inside you"</em>
 - <em>"The best way out is always through"</em>
+- <em>"Never trust a man who earns a salary"​</em>
+- <em>"The squeaky wheel gets the grease"</em>
 - <em>"The map is not the territory"</em>
 - <em>"The road to hell is paved with good intentions"</em>
 - <em>"Perfect is the enemy of good"</em>
 - <em>"There is no cure for curiosity"</em>
-
+- <em>"Adjust your sails to the wind"</em>
+- <em>"Ask, or remain a fool"</em>
+- <em>"The teacher appears when you're ready"</em>
+- <em>"The tree is known by its fruit"</em>
+- <em>"What you resist, persists"</em>
+- <em>"We suffer more in imagination than in reality"</em>
 
 
 <br/>

@@ -36,6 +36,7 @@ description: "My tracker for book reading progress!"
     <li><a href="https://www.goodreads.com/book/show/50705179-numbers-don-t-lie">"Numbers Don't Lie" by Vaclav Smil</a></li>
     <li><a href="https://www.goodreads.com/book/show/30780006-the-things-you-can-see-only-when-you-slow-down">"The Things You Can See Only When You Slow Down" by Haemin Sunim</a></li>
     <li><a href="https://www.goodreads.com/book/show/58631680-negotiation-magic">"Negotiation Magic" by Ambi Parameswaran</a></li>
+    <li><a href="https://www.goodreads.com/book/show/49125727-why-i-am-an-atheist-and-other-works">"Why I am an Atheist and Other Works" by Bhagat Singh</a></li>
 </ul>
 
 
