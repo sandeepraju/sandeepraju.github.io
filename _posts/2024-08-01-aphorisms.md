@@ -50,6 +50,7 @@ So, here they are, in no specific order â€” take from them what you will. Theyâ€
 - <em>"The tree is known by its fruit"</em>
 - <em>"What you resist, persists"</em>
 - <em>"We suffer more in imagination than in reality"</em>
+- <em>"No one ever steps in the same river twice"</em>
 
 
 <br/>
