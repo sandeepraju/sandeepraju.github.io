@@ -24,7 +24,7 @@ resume-url: /assets/docs/sandeep-raju-prabhakar-resume.pdf
 books: true
 
 # If you want to include cafes page, set to true
-cafes: true
+cafes: false
 
 # If you want to include mentoring page, set to true
 mentoring: true
