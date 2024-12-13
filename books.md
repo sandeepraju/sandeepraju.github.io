@@ -40,6 +40,7 @@ description: "My tracker for book reading progress!"
     <li><a href="https://www.goodreads.com/book/show/45999606-speak-with-no-fear">"Speak With No Fear" by Mike Acker</a></li>
     <li><a href="https://www.goodreads.com/en/book/show/63376691">"Mahagatha" by Satyarth Nayak</a></li>
     <li><a href="https://www.goodreads.com/book/show/54505323-invent-and-wander">"Invent and Wander" by Jeff Bezos and Walter Isaacson</a></li>
+    <li><a href="https://www.goodreads.com/book/show/500514.The_Dhandho_Investor">"The Dhandho Investor" by Mohnish Pabrai</a></li>
 </ul>
 
 
