@@ -2,7 +2,7 @@
 title: "\"spaces\" vs \"tabs\""
 layout: post
 date: 2024-12-24 00:00
-image: /assets/posts/2024-12-24-spaces-vs-tabs/header.png
+image: /assets/posts/2024-12-24-spaces-vs-tabs/header.jpg
 headerImage: false
 tag:
 - skill
