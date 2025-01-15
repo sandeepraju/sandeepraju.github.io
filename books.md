@@ -16,6 +16,13 @@ description: "My tracker for book reading progress!"
 
 <p>Drop me an <a href="mailto:me@sandeepraju.in">email</a> if you like my reading list or you have an interesting book suggestion!</p>
 
+<h2>2025</h2>
+
+<ul>
+    <li><a href="https://www.goodreads.com/book/show/59838811-upgrade">"Upgrade" by Blake Crouch</a></li>
+</ul>
+
+
 <h2>2024</h2>
 
 <ul>
