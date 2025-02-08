@@ -20,6 +20,8 @@ description: "My tracker for book reading progress!"
 
 <ul>
     <li><a href="https://www.goodreads.com/book/show/59838811-upgrade">"Upgrade" by Blake Crouch</a></li>
+    <li><a href="https://www.goodreads.com/book/show/27833670-dark-matter">"Dark Matter" by Blake Crouch</a></li>
+    <li><a href="https://www.goodreads.com/book/show/31920777-american-kingpin">"American Kingpin" by Nick Bilton</a></li>
 </ul>
 
 
