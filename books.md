@@ -24,6 +24,7 @@ description: "My tracker for book reading progress!"
     <li><a href="https://www.goodreads.com/book/show/31920777-american-kingpin">"American Kingpin" by Nick Bilton</a></li>
     <li><a href="https://www.goodreads.com/book/show/60869516-into-the-wild">"Into the Wild" by Jon Krakauer</a></li>
     <li><a href="https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning">"Man’s Search for Meaning" by Viktor E. Frankl</a></li>
+    <li><a href="https://www.goodreads.com/book/show/219876684-the-answer-is-no">"The Answer Is No" by Fredrik Backman</a></li>
 </ul>
 
 
