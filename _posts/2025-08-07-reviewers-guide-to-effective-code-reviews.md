@@ -2,7 +2,7 @@
 title: "Reviewers' guide to effective code reviews"
 layout: post
 date: 2025-08-07 00:00
-image: /assets/posts/2025-08-07-the-art-of-code-reviews/header.jpg
+image: /assets/posts/2025-08-07-reviewers-guide-to-effective-code-reviews/header.jpg
 headerImage: false
 tag:
 - code
